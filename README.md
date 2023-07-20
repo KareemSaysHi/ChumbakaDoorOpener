@@ -5,8 +5,9 @@ This project uses an **ESP32**, a microcontroller (like an Arduino) that is able
 
 Here's a little diagram:
 
-![alt text](https://github.com/[kareemsayshi]/[ChumbakaDoorOpener]/blob/[main]/diagram.jpg?raw=true)
+![alt text](diagram.png)
 
+If you're curious about how the code works, you can check out the files here, and I'll leave some notes about the important arts of the code below:
 ```
 void loop() {
   server.handleClient(); //this needs to be called to keep the server running
