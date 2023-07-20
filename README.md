@@ -5,7 +5,7 @@ This project uses an **ESP32**, a microcontroller (like an Arduino) that is able
 
 Here's a little diagram:
 
-![alt text](https://github.com/[kareemsayshi]/[ChumbakaDoorOpener]/blob/[main]/diagram.png?raw=true)
+![alt text](diagram.png)
 
 ```
 void loop() {
